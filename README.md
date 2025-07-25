@@ -6,13 +6,13 @@ I’m a Systems Engineering student and aspiring Full Stack Developer
 I'm currently in my 9th semester of Systems Engineering, based in Cúcuta, Colombia. I'm passionate about technology and web development. Most of what I know, I’ve learned through self-study and university projects, and I’m always looking to improve my skills.
 Over time, I’ve worked with Python (OOP), SQL queries, and built basic web pages using HTML, CSS, JS and Bootstrap. I enjoy learning through practice, and I'm currently diving deeper into backend development and database connections.
 
-<img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="right" width="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 * 💻 I'm learning Full Stack development (especially with Python and SQL)
 * 📍 Based in Cúcuta, Colombia
 * 📧 Contact me at rollerpaez36@gmail.com
 * 🌱 Always open to learn and collaborate on small projects
-* 🗣 I speak Spanish (native) and I'm working on improving my English (A1 level)
+* 🗣 Languages: **Spanish:** Native - **English:** A1 (actively studying)
 
 
 <h1>Languages and Tools:</h1>
